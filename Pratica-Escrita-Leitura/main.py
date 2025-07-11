@@ -467,7 +467,7 @@ print("EXERCÍCIO 3.2 - CRIANDO PERFIL INSTAGRAM")
 print("=" * 60)
 
 perfil_instagram = {
-    "username": "Luísa",
+    "username": "Luisa",
     "seguidores": 5000,
     "seguindo": 100,
     "posts": 50,
@@ -475,7 +475,7 @@ perfil_instagram = {
     "biografia": "Sejam bem-vindos ao meu perfil!"
 }
 
-with open('perfil_instagram.json', 'w') as file:
+with open('perfil_instagram.json', 'w', encoding='utf-8') as file:
     json.dump(perfil_instagram, file, indent=4)
 print("Perfil Instagram criado!")
 
