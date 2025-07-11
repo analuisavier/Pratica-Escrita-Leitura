@@ -1,0 +1,15 @@
+{
+    "nome": "Arya Stark",
+    "nivel": 16,
+    "hp": 320,
+    "habilidades": [
+        "Agilidade",
+        "Furtividade",
+        "Disfarces"
+    ],
+    "equipamentos": {
+        "arma": "Agulha",
+        "armadura": "Couro",
+        "anel": "Nenhum"
+    }
+}

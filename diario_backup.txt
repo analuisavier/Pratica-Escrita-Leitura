@@ -1,0 +1,2 @@
+Hoje aprendi a manipular arquivos em Python!
+Agora estou praticando escrita de arquivos!
